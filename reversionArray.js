@@ -1,6 +1,6 @@
 /*
 *
-* Para este ejercicio, escribe dos fun ciones, reverseArray y reverseArrayInPlace.
+* Para este ejercicio, escribe dos funciones, reverseArray y reverseArrayInPlace.
 * La primera, reverseArray, debería tomar un array como argumento y producir un nuevo
 * array que tenga los mismos elementos en orden inverso. La segunda, reverseArrayInPlace,
 * debería hacer lo que hace el método reverse: modificar el array dado como argumento
